@@ -1,4 +1,0 @@
-#Create an infinite loop for the application
-while True:
-
-	print("Selection: Rock | Paper | Scissors")
